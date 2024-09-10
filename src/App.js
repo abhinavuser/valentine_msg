@@ -20,7 +20,7 @@ function App() {
       setNoButtonText(noResponses[noClickCount]);
       setNoClickCount(noClickCount + 1);
     } else {
-      setNoButtonText("Seriously, no?");
+      setNoButtonText("Un veetuku vandhuduven");
     }
   };
 
