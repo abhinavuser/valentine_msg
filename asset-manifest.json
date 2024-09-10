@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/valentine-app/static/css/main.65f1b546.css",
-    "main.js": "/valentine-app/static/js/main.9b697506.js",
-    "static/media/lovegif.gif": "/valentine-app/static/media/lovegif.1227997091416910778c.gif",
-    "index.html": "/valentine-app/index.html",
-    "main.65f1b546.css.map": "/valentine-app/static/css/main.65f1b546.css.map",
-    "main.9b697506.js.map": "/valentine-app/static/js/main.9b697506.js.map"
+    "main.css": "/valentine_msg/static/css/main.65f1b546.css",
+    "main.js": "/valentine_msg/static/js/main.08a364d6.js",
+    "static/media/lovegif.gif": "/valentine_msg/static/media/lovegif.1227997091416910778c.gif",
+    "index.html": "/valentine_msg/index.html",
+    "main.65f1b546.css.map": "/valentine_msg/static/css/main.65f1b546.css.map",
+    "main.08a364d6.js.map": "/valentine_msg/static/js/main.08a364d6.js.map"
   },
   "entrypoints": [
     "static/css/main.65f1b546.css",
-    "static/js/main.9b697506.js"
+    "static/js/main.08a364d6.js"
   ]
 }
